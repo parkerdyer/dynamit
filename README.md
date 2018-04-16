@@ -1,0 +1,2 @@
+# dynamit
+A coding exercise
